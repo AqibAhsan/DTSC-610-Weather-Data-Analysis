@@ -1,4 +1,7 @@
 DTSC-610-Weather-Data-Analysis
+
+https://api.open-meteo.com/v1/forecast
+
 Here's a brief summary of the work done focused on weather data analysis and visualization for outdoor activity planning:
 
 Data Cleaning and Aggregation: A Weather Data Aggregator Class was implemented to combine, normalize, and aggregate multiple weather datasets efficiently. Error handling mechanisms were integrated into the data cleaning process to handle unexpected data formats, missing data, and outliers effectively.
